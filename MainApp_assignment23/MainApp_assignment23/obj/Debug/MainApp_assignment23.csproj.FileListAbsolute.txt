@@ -1,0 +1,11 @@
+D:\SimpliLearn Course\Day20\MainApp_assignment23\MainApp_assignment23\obj\Debug\MainApp_assignment23.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Day20\MainApp_assignment23\MainApp_assignment23\obj\Debug\MainApp_assignment23.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Day20\MainApp_assignment23\MainApp_assignment23\obj\Debug\MainApp_assignment23.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Day20\MainApp_assignment23\MainApp_assignment23\bin\Debug\MainApp_assignment23.exe.config
+D:\SimpliLearn Course\Day20\MainApp_assignment23\MainApp_assignment23\bin\Debug\MainApp_assignment23.exe
+D:\SimpliLearn Course\Day20\MainApp_assignment23\MainApp_assignment23\bin\Debug\MainApp_assignment23.pdb
+D:\SimpliLearn Course\Day20\MainApp_assignment23\MainApp_assignment23\bin\Debug\Assignment23_Day20.dll
+D:\SimpliLearn Course\Day20\MainApp_assignment23\MainApp_assignment23\bin\Debug\Assignment23_Day20.pdb
+D:\SimpliLearn Course\Day20\MainApp_assignment23\MainApp_assignment23\obj\Debug\MainApp_assignment23.csproj.CopyComplete
+D:\SimpliLearn Course\Day20\MainApp_assignment23\MainApp_assignment23\obj\Debug\MainApp_assignment23.exe
+D:\SimpliLearn Course\Day20\MainApp_assignment23\MainApp_assignment23\obj\Debug\MainApp_assignment23.pdb
